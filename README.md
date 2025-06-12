@@ -98,4 +98,4 @@ GROUP BY Continent;
 
 ---
 
-> Created with 🔥 by **Bafti Çakır**
+> Created 🔥 by **Bafti Cakir**
